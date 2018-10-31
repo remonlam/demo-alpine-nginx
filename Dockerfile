@@ -1,4 +1,4 @@
-FROM remonlam/demo-dockerfile-alpine:3.8.0
+FROM remonlam/demo-dockerfile-alpine:latest
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
